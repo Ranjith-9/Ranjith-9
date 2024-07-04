@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ranjith-9
+- 👋 Hi, I’m Ranjith Ramesh
 - 👀 I’m interested in data analytics
 
 <!---
